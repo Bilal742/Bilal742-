@@ -1,23 +1,34 @@
-### 👋 Hi there, I'm Bilal Usman
+# Hi, I'm Bilal 👋
 
-- 🌱 I’m currently learning **Web Development**
-- 💻 I love working with **HTML, CSS, JavaScript**
-- 🔭 I’m building awesome **portfolio websites and apps**
-- 📫 Reach me: bilalusman1291@gmail.com
+## 🚀 Web Developer | 💡 Creative Coder | 🇵🇰 From Pakistan
 
----
-
-### 🛠️ My Tech Stack:
-HTML • CSS • JavaScript • React • Git & GitHub
+- 🔭 I’m currently working on frontend development
+- 🌱 I’m learning React, Tailwind CSS, and Node.js
+- 👨‍💻 All of my projects are available on [my GitHub](https://github.com/Bilal742)
+- 📫 How to reach me: **bilalusman1291@gmail.com**
 
 ---
 
-### 📈 GitHub Stats:
+## 🛠️ Skills
 
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilal742&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal742&layout=compact)
+**Languages & Tools:**  
+HTML5 • CSS3 • JavaScript • Git • GitHub • VS Code
 
 ---
 
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+## 📊 GitHub Stats
+
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilal742&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧠 Currently Learning
+
+ReactJS, Firebase, API Integration
+
+---
+
+## 🤝 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalusman1291@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Bilal742)
